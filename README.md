@@ -1,4 +1,10 @@
 # Hotel Management System
+## Assignment Details
+* Name: Shubh Gangar
+* Roll No: 1911013
+* Batch: SY Btech Comps A, A1
+* Course: Relational Databse Management System
+* Faculty: Prof. Vaibhav Vasani, Prof. Pradnya Bhangale
 ## Technologies Used
 HTML, CSS and Bootstrap were used for front-end. Django is used for storing data at the backend on its inbuilt database sqlite3.
 ## Commands to run it on your device
@@ -7,7 +13,6 @@ Go to the directory in the command line where you want to clone the project and 
 ```
 git clone https://github.com/shubh1605/HotelManagement.git
 ```
-
 ### Creating a virtual environment
 ```
 pip install virtualenv
